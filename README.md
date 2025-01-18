@@ -69,4 +69,4 @@ This project is a Gradio-based web application that allows users to generate col
 a girl with green retina
 ```
 ### Generated output
-![Generated Output](/Images/image.png)
+![Generated Output](/Images/green_eye.png)
