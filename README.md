@@ -40,7 +40,7 @@ This project is a Gradio-based web application that allows users to generate col
 
 2. Run the application:
    ```bash
-   python multi_controlnet.py
+   python app_color_mask.py
    ```
 
 3. Open the provided local URL in your web browser to use the app.
@@ -62,11 +62,11 @@ This project is a Gradio-based web application that allows users to generate col
 ![Line art image](/Images/Base_Image.jpeg)
 
 ### Input mask image
-![Binary mask image](/Images/round 2025-1-19 16-48.png.png)
+![Binary mask image](/Images/green_input_mask.png)
 
 ### Input prompt 
 ```
-a girl with green retina
+color the retina
 ```
 ### Generated output
 ![Generated Output](/Images/generated_image_color_mask.png)
