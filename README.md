@@ -56,4 +56,17 @@ This project is a Gradio-based web application that allows users to generate col
   - Generated colored image displayed on the Gradio interface.
 
 
+## Sample input and generated output
 
+### Input line art image
+![Line art image](/Images/Base_Image.jpeg)
+
+### Input mask image
+![Binary mask image](/Images/round 2025-1-19 16-48.png.png)
+
+### Input prompt 
+```
+a girl with green retina
+```
+### Generated output
+![Generated Output](/Images/generated_image_color_mask.png)
